@@ -11,6 +11,15 @@ body {
   height: 350px;
 }
 
+#paige-bio {
+  font-family: 'Lato', sans-serif;
+  size: 12px;
+  padding: 15px;
+
+}
+#about-container {
+  padding: 20px;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
